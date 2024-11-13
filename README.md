@@ -1,1 +1,1 @@
-![simple_uvm_structure](https://github.com/user-attachments/assets/af3af1a6-3e55-4b5c-9e3f-46e058b0fc57)
+![CNN_uvm_structure](https://github.com/user-attachments/assets/5903fb2d-5aed-4357-b9de-7e3ec90c054e)
